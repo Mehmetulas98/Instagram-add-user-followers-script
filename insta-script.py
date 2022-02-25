@@ -38,8 +38,7 @@ time.sleep(2)
 
 #username=driver.find_element_by_name("username")
 #password=driver.find_element_by_name("password")
-#username.send_keys("05312561915")
-#password.send_keys("Mehmetulas1")
+
 
 
 
